@@ -23,12 +23,12 @@ dot_navigation_bar
 # Screenshots
 
 <h4>All Screens</h4>
-<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593322/mbc/tia3518804254996067902.png" width="700">
-<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593313/mbc/tia8306176997350850608.png" width="700">
-<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593314/mbc/tia2079749058439092585.png" width="700">
-<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593312/mbc/tia9169446706968245883.png" width="700">
-<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593318/mbc/tia5876907391920782688.png" width="700">
-<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593308/mbc/tia7978038233439575166.png" width="700">
+<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593322/mbc/tia3518804254996067902.png" width="300">
+<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593313/mbc/tia8306176997350850608.png" width="300">
+<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593314/mbc/tia2079749058439092585.png" width="300">
+<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593312/mbc/tia9169446706968245883.png" width="300">
+<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593318/mbc/tia5876907391920782688.png" width="300">
+<img src="https://res.cloudinary.com/ypecwr/image/upload/v1665593308/mbc/tia7978038233439575166.png" width="300">
 
 # Author & Creator of this project
 
